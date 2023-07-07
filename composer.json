@@ -1,5 +1,5 @@
 {
-    "name"              : "cswiley/laravel-content-block-cms",
+    "name"              : "rescueagencyinternal/laravel-content-block-cms",
     "description"       : "Simple content block based cms package for laravel",
     "license"           : "MIT",
     "authors"           : [
